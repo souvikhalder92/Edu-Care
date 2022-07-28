@@ -1,15 +1,15 @@
-.text-sm{
-   display: block;
-  margin: auto;
-   font-size: 5px;
-   font-weight: bold;
-   text-align: center;
-   display: inline-block;
-  
+.img-sm{
+    height: 600px;
+    max-height: 100vh;
 }
 .fa-star{
     color:gold;
 }
 .fa-star-half-stroke{
     color:gold;
+}
+
+
+footer{
+    height: 300px;
 }
