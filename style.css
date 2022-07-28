@@ -1,0 +1,9 @@
+.text-sm{
+   display: block;
+  margin: auto;
+   font-size: 5px;
+   font-weight: bold;
+   text-align: center;
+   display: inline-block;
+  
+}
